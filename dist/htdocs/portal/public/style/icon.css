@@ -1,0 +1,17 @@
+i.icon{width: 60px;height: 60px;display: inline-block;background-size:60px 60px;background-repeat:no-repeat;}
+i.icon_big{width: 120px;height: 120px;background-size:120px 120px;}
+i.icon_guest{background-image: url("../icon_mobile/icon_guest_normal.png"); }
+i.icon_guest.active{background-image: url("../icon_mobile/icon_guest_selected.png");}
+i.icon_wandaclub{background-image: url("../icon_mobile/icon_wandaclub_normal.png");}
+i.icon_wandaclub.active{background-image: url("../icon_mobile/icon_wandaclub_selected.png");}
+i.icon_visitor{background-image: url("../icon_mobile/icon_vistor_normal.png");}
+i.icon_visitor.active{background-image: url("../icon_mobile/icon_vistor_selected.png");}
+i.icon_meeting{background-image: url("../icon_mobile/icon_meeting_normal.png");}
+i.icon_meeting.active{background-image: url("../icon_mobile/icon_meeting_selected.png");}
+i.icon_captcha{background-image: url("../icon_mobile/icon_captcha.png");}
+i.icon_enter{background-image: url("../icon_mobile/icon_enter.png");}
+i.icon_meetingcode{background-image: url("../icon_mobile/icon_meetingcode.png");}
+i.icon_people{background-image: url("../icon_mobile/icon_people.png");}
+i.icon_phone{background-image: url("../icon_mobile/icon_phone.png");}
+i.icon_roomnumber{background-image: url("../icon_mobile/icon_roomnumber.png");}
+i.icon_back{background-image: url("../icon_mobile/icon_back.png");}

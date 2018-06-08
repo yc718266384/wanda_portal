@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?= __PUBLIC__ ?>/style/common.css?v=<?=$assetsTimestamp?>"/>
